@@ -1,7 +1,7 @@
 import React from "react"
 
 export default function() {
-  return <div>page one</div>
+  return <div>TESTING PAGE ONE!</div>
 }
 
 // import React from "react"
